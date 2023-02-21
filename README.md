@@ -5,3 +5,8 @@ In the "Implementation.zip" file, you will find Implementations of the following
 1) <a href="https://en.wikipedia.org/wiki/One-time_pad" target="_blank">One-time pad</a>
 2) <a href="https://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Ceasar cipher</a>
 3) <a href="https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher" target="_blank">Vigenère cipher</a>
+
+You can explore the functionality of the program in the following way:
+- Unzip "Implementation.zip"
+- Run "make".
+- Run "./demoprogram" and enjoy!
