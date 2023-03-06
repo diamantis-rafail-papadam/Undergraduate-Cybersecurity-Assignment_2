@@ -9,4 +9,4 @@ In the "Implementation.zip" file, you will find Implementations of the following
 You can explore the functionality of the program in the following way:
 - Unzip "Implementation.zip"
 - Run "make".
-- Run "./demoprogram" and enjoy!
+- Run "./demoprogram" and enjoy! 
